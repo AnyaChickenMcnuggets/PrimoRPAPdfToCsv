@@ -12,3 +12,7 @@
 
 # результат в .csv
 ![XyZ5RGzJ0ls](https://github.com/AnyaChickenMcnuggets/PrimoRPAPdfToCsv/assets/44460590/fc456c12-e0dc-4d52-8bd1-c768559acdfe)
+
+# время выполнения 
+![image](https://github.com/AnyaChickenMcnuggets/PrimoRPAPdfToCsv/assets/44460590/21d2179e-3a46-4a7b-9634-2f1486c21511)
+![image](https://github.com/AnyaChickenMcnuggets/PrimoRPAPdfToCsv/assets/44460590/c2aaa35e-d1b7-4f89-861c-e691dfc5670b)
